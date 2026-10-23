@@ -1,9 +1,15 @@
-# Tm Gantt 0.7.0
-
 ## New
 
-- A native Qlik **Styling** tab follows Appearance in the property panel. Qlik draws the title, subtitle, footnote, border, and shadow.
+- A native Qlik **Styling** tab follows Appearance. Qlik draws the title, subtitle, footnote, border, and shadow.
 - The chart surface follows the General background color. Transparent colors blend with the theme background. Chart text keeps at least 4.5:1 contrast, using black or white when needed.
+
+## Changed
+
+None in this release.
+
+## Fixed
+
+None in this release.
 
 ## Before you upgrade
 
