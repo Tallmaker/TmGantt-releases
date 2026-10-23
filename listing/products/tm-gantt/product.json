@@ -1,0 +1,38 @@
+{
+  "name": "Tm Gantt",
+  "pitch": "Explore project schedules on one shared timeline in Qlik Cloud.",
+  "question": "What is planned, and where do Activities overlap?",
+  "useWhen": "Use it to explore schedule data with start and end dates.",
+  "features": [
+    "Show Activities, milestones, and summaries on one time axis.",
+    "Group schedules with collapsible levels and clear row structure.",
+    "Place overlapping Activities in separate lanes on the same row.",
+    "Add an optional table with up to six extra columns.",
+    "Use progress, labels, tooltips, colors, and legends to read the plan.",
+    "Select Activities with the pointer, keyboard, or touch in Qlik."
+  ],
+  "hero": {
+    "file": "images/hero.jpg",
+    "alt": "A grouped project schedule shown across a shared timeline."
+  },
+  "screenshots": [
+    {
+      "file": "images/overview.jpg",
+      "alt": "Project Activities arranged in lanes across a monthly timeline.",
+      "caption": "See grouped Activities and overlapping work on one timeline."
+    },
+    {
+      "file": "images/milestones.jpg",
+      "alt": "A project schedule with milestone markers and summary bars.",
+      "caption": "Read milestones and summaries alongside Activities."
+    },
+    {
+      "file": "images/table-groups.jpg",
+      "alt": "An Activity table beside a grouped schedule timeline.",
+      "caption": "Keep Activity details aligned with the timeline."
+    }
+  ],
+  "shortlinks": [
+    "tmgantt"
+  ]
+}

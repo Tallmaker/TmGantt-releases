@@ -1,0 +1,1 @@
+A Qlik Cloud administrator first uploads the extension from the release download; the Site install guide shows how. After that, open a sheet and add it from the visualization extension list. Then bind your schedule dimensions and measures in the property panel.

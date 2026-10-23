@@ -1,0 +1,1 @@
+Tm Gantt turns schedule data into an interactive Gantt chart in Qlik Cloud. Choose a Row level dimension and assign the Activity start and Activity end measures to see Activities on one shared time axis. Group the rows, inspect overlapping work, and select chart values through Qlik. Tm Gantt reads schedule data; it does not change the app.
